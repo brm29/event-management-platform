@@ -23,7 +23,3 @@ Welcome to the Event Management Platform, a comprehensive solution for organizin
 To view the Event Management Platform locally:
 1. Clone this repository.
 2. Open `index.html` in your web browser.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
